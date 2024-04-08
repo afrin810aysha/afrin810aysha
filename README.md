@@ -52,3 +52,6 @@ You can click the Preview link to take a look at your changes.
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=afrin810aysha&theme=tokyonight" alt="mystreak"/>
+
+
+![star-history](https://api.lucabubi.me/chart?username=afrin810aysha&repository=REPOSITORY&color=COLOR)
